@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Croudxd/frontend.git
+[submodule "imagae_recognition_ai"]
+	path = imagae_recognition_ai
+	url = https://github.com/Croudxd/image_recognition_ai.git
